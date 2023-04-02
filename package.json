@@ -1,0 +1,19 @@
+{
+  "name": "www",
+  "version": "0.0.1",
+  "description": "my new site",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitchellBuffo/app.git"
+  },
+  "author": "Moorel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitchellBuffo/app/issues"
+  },
+  "homepage": "https://github.com/MitchellBuffo/app#readme"
+}
